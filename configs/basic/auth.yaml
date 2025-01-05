@@ -1,3 +1,3 @@
-${DEST_REGISTRY}:
+turing-med-registry.cn-beijing.cr.aliyuncs.com:
   username: ${DEST_USERNAME}
   password: ${DEST_PASSWORD}

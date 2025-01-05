@@ -1,1 +1,1 @@
-nginx: "${DEST_REGISTRY}/library/nginx"
+nginx: "turing-med-registry.cn-beijing.cr.aliyuncs.com/library/nginx"
