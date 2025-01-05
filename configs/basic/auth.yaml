@@ -1,0 +1,3 @@
+${DEST_REGISTRY}:
+  username: ${DEST_USERNAME}
+  password: ${DEST_PASSWORD}

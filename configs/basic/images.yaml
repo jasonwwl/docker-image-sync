@@ -1,0 +1,1 @@
+nginx: "${DEST_REGISTRY}/library/nginx"
