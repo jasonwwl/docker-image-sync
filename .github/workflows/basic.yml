@@ -19,6 +19,7 @@ jobs:
           images_file: ./configs/basic/images.yaml
           version: latest
           proc: 10
+          arch: amd64
         env:
           DEST_REGISTRY: ${{ secrets.DEST_REGISTRY }}
           DEST_USERNAME: ${{ secrets.DEST_USERNAME }}
